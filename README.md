@@ -12,9 +12,9 @@ A Flutter-based news app that displays categorized news using a clean and user-f
 
 ## 🎥 Screenshots
 
-- ![Splash Screen](https://github.com/user-attachments/assets/f6aeb5f2-944d-48d1-8788-e2dbb1e28628)
-- ![Screen 1](https://github.com/user-attachments/assets/f3805324-ce37-4c38-b482-1270c2a830f6)
-- ![Screen 2](https://github.com/user-attachments/assets/95e94d60-6e0d-4415-9baf-8f547e89f1a1)
+- ![Splash Screen](https://github.com/user-attachments/assets/dffc09e1-db37-4d38-9a73-2dc52109b9a0)
+- ![Screen 1](https://github.com/user-attachments/assets/f10109ad-1fcb-4df8-a202-b4b51de169ff)
+- ![Screen 2](https://github.com/user-attachments/assets/624177f8-9f3a-4927-82fc-703f29c5e01a)
 
 
 ## 🛠️ Tech Stack
